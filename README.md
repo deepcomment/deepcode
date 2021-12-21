@@ -14,7 +14,7 @@ provides a comment that briefly describes what the code does.
   - Alternatively, you can press Shift-Ctrl-/ to call the command directly
 - Once the extension finished processing, the comment line will appear above the selected code
 
-![Demo](./images/feature.png)
+![Demo](images/feature.png)
 
 ## Privacy & Compliance
 The code snippets user submits is processed on our servers. 
