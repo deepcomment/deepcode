@@ -14,9 +14,7 @@ provides a comment that briefly describes what the code does.
   - Alternatively, you can press Shift-Ctrl-/ to call the command directly
 - Once the extension finished processing, the comment line will appear above the selected code
 
-<p align="center">
-<img src="https://media.giphy.com/media/V5hXyCdG9yCo4JFEYj/giphy.gif">
-</p>
+![Demo](./images/feature.png)
 
 ## Privacy & Compliance
 The code snippets user submits is processed on our servers. 
